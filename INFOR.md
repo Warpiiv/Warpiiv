@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Warpiiv
+- 👀 I’m interested in coding and programming.
+- 🌱 I’m currently learning Javascript (HTML+CSS+JAVASCRIPT+PYTHON).
+- 💞️ I’m looking to collaborate on Projects that would sharpen my skils.
+- 📫 How to reach me Warpiiv@gmail.com.
